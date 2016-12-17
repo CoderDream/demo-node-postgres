@@ -1,0 +1,19 @@
+{
+  "name": "demo-node-postgres",
+  "version": "0.0.1",
+  "keywords": "node postgres postgresql",
+  "bugs": {
+    "url": "",
+    "email": "2693491512@qq.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "zgljl2012",
+    "email": "2693491512@qq.com",
+    "url": "http://www.zgljl2012.com"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "pg": "^6.1.2"
+  }
+}
